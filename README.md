@@ -12,8 +12,10 @@ I'm currently a student studying Computing and Software Development at the Unive
 </a>
 <br>
 - ⚡ Currently completed ...
+<br>
+<a href="https://github.com/Plymouth-Comp/2020-comp1000-cw2-Brankin19">
+  <img align="center" style="margin:1rem 0.5rem" src="https://i.imgur.com/orq9vdh.jpg"/>
 
-[![Alex's Crawler Game Banner](https://i.imgur.com/orq9vdh.jpg)](https://github.com/Plymouth-Comp/2020-comp1000-cw2-Brankin19)
 
 
 ## &#x1f4c8; GitHub Stats
