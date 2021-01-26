@@ -11,6 +11,11 @@ I'm currently a student studying Computing and Software Development at the Unive
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Brankin19&repo=COMP1004-Mount-Edgcumbe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+- ⚡ Currently completed ...
+<a href="https://github.com/Plymouth-Comp/2020-comp1000-cw2-Brankin19">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Plymouth-Comp&repo=2020-comp1000-cw2-Brankin19&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+ </a>
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
