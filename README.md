@@ -10,8 +10,9 @@ I'm currently a student studying Computing and Software Development at the Unive
 <a href="https://github.com/Brankin19/COMP1004-Mount-Edgcumbe/tree/master/OneDrive/Repos/COMP1004-SPA-MECP">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Brankin19&repo=COMP1004-Mount-Edgcumbe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<br>
 - ⚡ Currently completed ...
+
 [![Alex's Crawler Game Banner](https://i.imgur.com/orq9vdh.jpg)](https://github.com/Plymouth-Comp/2020-comp1000-cw2-Brankin19)
 
 
