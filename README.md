@@ -18,7 +18,7 @@ I'm currently a student studying Computing and Software Development at the Unive
 
 <br>
 
-<a href="https://github.com/Plymouth-Comp/2020-comp1000-cw2-Brankin19">
+<a href="https://www.youtube.com/watch?v=0af96udVCrQ&feature=youtu.be">
   <img align="center" style="margin:1rem 0.5rem" src="https://i.imgur.com/orq9vdh.jpg"/>
 
 
