@@ -1,3 +1,6 @@
+[![Alex's GitHub Banner](https://i.imgur.com/Rqubvbf.png)](https://github.com/Brankin19)
+
+
 ### Hi there 👋
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Brankin19&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
