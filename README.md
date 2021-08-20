@@ -22,7 +22,7 @@ I'm currently a student studying Computing and Software Development at the Unive
 <br>
 <br>
 <a href="https://github.com/Brankin19/COMP1004-Mount-Edgcumbe/tree/master/OneDrive/Repos/COMP1004-SPA-MECP">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Brankin19&repo=COMP1004-Mount-Edgcumbe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://i.imgur.com/R1ZIW5R.jpg" />
 </a>
 
 
