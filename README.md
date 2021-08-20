@@ -17,8 +17,9 @@ I'm currently a student studying Computing and Software Development at the Unive
 <br>
 
 <a href="https://www.youtube.com/watch?v=0af96udVCrQ&feature=youtu.be">
-  <img align="center" style="margin:1rem 0.5rem" src="https://i.imgur.com/orq9vdh.jpg"/>
+  <img align="center" style="margin:1rem 0.5rem" src="https://i.imgur.com/orq9vdh.jpg"/></a>
 
+<br>
 <br>
 COMP1004 - Mount Edgcumbe Country Park SPA
 <a href="https://github.com/Brankin19/COMP1004-Mount-Edgcumbe/tree/master/OneDrive/Repos/COMP1004-SPA-MECP">
