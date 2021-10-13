@@ -8,7 +8,7 @@ I'm currently a student studying Computing and Software Development at the Unive
 
 - 🔭 I’m currently working on ...
 
-N/A
+COMP2003 - Group Project
 
 
 <br>
