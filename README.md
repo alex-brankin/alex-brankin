@@ -8,8 +8,8 @@ I'm currently a student studying Computing and Software Development at the Unive
 
 - 🔭 I’m currently working on ...
 
-COMP2000 - Create an app that manages the FarmBnB bookings
-COMP2001 - Learning data management alongside a FarmBnB booking system
+COMP2000 - Create an app that manages the FarmBnB bookings<br>
+COMP2001 - Learning data management alongside a FarmBnB booking system<br>
 COMP2003 - Group Project with EcoBadge
 
 
