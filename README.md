@@ -1,4 +1,4 @@
-[![Alex's GitHub Banner](https://i.imgur.com/Rqubvbf.png)](https://github.com/Brankin19)
+[![Alex's GitHub Banner](https://i.imgur.com/Rqubvbf.png)](https://github.com/alex-brankin)
 
 
 Hi there 👋
