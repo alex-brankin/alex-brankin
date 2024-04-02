@@ -8,9 +8,9 @@ I'm currently a student studying Computing and Software Development at the Unive
 
 - 🔭 I’m currently working on ...
 
-COMP3000 
-COMP3006
-COMP3017
+COMP3000 - Final Year Project (In The Zone)
+COMP3008 - Big Data Analytics
+COMP3007 - HCI, Usability and Visualization 
 
 
 
