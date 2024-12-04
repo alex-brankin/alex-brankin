@@ -3,21 +3,19 @@
 
 Hi there 👋
 
-I'm currently a student studying Computing and Software Development at the University of Plymouth. I'm an aspiring Software Architect and here you'll see my University projects.
+I'm currently a product specialist at clearer.io with a product called Boost. I typically build projects under a web dev tech stack and looking to expand from this specialisation. 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Brankin19&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 - 🔭 I’m currently working on ...
 
-COMP3000 - Final Year Project (In The Zone)<br>
-COMP3008 - Big Data Analytics<br>
-COMP3007 - HCI, Usability and Visualization 
+New things coming soon!
 
 
 
 <br>
  
  
-## ⚡ Completed Projects
+## ⚡ Completed Projects (Needs updating)
 
 <br>
 
