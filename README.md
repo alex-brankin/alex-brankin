@@ -3,7 +3,7 @@
 
 Hi there 👋
 
-I'm currently a product specialist at clearer.io with a product called Boost. I typically build projects under a web dev tech stack and looking to expand from this specialisation. 
+I'm currently a Product & Solutions Consultant at clearer.io. I typically build projects under a web dev tech stack and looking to expand from this specialisation. 
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Brankin19&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 - 🔭 I’m currently working on ...
