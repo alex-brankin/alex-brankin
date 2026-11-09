@@ -1,60 +1,49 @@
-[![Alex's GitHub Banner](https://i.imgur.com/Rqubvbf.png)](https://github.com/alex-brankin)
-
-
-Hi there 👋
-
-I'm currently a Product & Solutions Consultant at clearer.io. I typically build projects under a web dev tech stack and looking to expand from this specialisation. 
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Brankin19&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
-
-- 🔭 I’m currently working on ...
-
-New things coming soon!
-
-
-
-<br>
- 
- 
-## ⚡ Completed Projects (Needs updating)
+<p>
+  <img src="assets/header.svg" alt="Alex Brankin, Product &amp; Solutions Consultant at Clearer.io. Shopify search, theme code and the tools around it." width="100%">
+</p>
 
 <br>
 
-<a href="https://www.youtube.com/watch?v=0af96udVCrQ&feature=youtu.be">
-  <img align="center" style="margin:1rem 0.5rem" src="https://i.imgur.com/orq9vdh.jpg"/></a>
+I'm a Product & Solutions Consultant at [Clearer.io](https://clearer.io), working on Boost AI Search & Discovery for Shopify merchants and the agencies behind them. Most days that means reading theme code, working out why a product ranks where it does, and fixing the integration so it stays fixed.
 
-<br>
-<br>
-<a href="https://github.com/Brankin19/COMP1004-Mount-Edgcumbe/tree/master/OneDrive/Repos/COMP1004-SPA-MECP">
-  <img align="center" style="margin:1rem 0.5rem" src="https://i.imgur.com/R1ZIW5R.jpg" />
-</a>
-
-
-<!--
-## &#x1f4c8; GitHub Stats
+When the same job comes up twice, I build a tool for it. Most of what's below started that way.
 
 <br>
 
-<a href="https://github.com/Brankin19">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brankin19&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+### Selected work
 
-<a href="https://github.com/Brankin19">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Brankin19&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+<p>
+  <a href="https://github.com/alex-brankin/homebrew-boost-cli"><img src="assets/card-boost-cli.svg" alt="boost-cli: run Boost AI Search &amp; Discovery from the terminal" width="49%"></a>
+  <img src="assets/card-hugo.svg" alt="Hugo: Slack bot and dashboard for the Clearer team" width="49%">
+</p>
+<p>
+  <a href="https://github.com/alex-brankin/boost-commerce-templates"><img src="assets/card-theme-work.svg" alt="Boost theme integrations on Shopify" width="49%"></a>
+  <a href="https://github.com/alex-brankin/review-import-checker"><img src="assets/card-review-checker.svg" alt="Review Import Checker: validate review CSVs before import" width="49%"></a>
+</p>
+<p>
+  <img src="assets/card-tidybar.svg" alt="TidyBar: macOS menu bar app for disk space and file hygiene" width="49%">
+  <a href="https://github.com/alex-brankin/In-The-Zone"><img src="assets/card-in-the-zone.svg" alt="In The Zone: heart-rate zone training for iPhone and Apple Watch" width="49%"></a>
+</p>
+
+<sub>Linked cards open the repo. Hugo and TidyBar are private.</sub>
 
 <br>
 
-<!--
-**Brankin19/Brankin19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Toolkit
 
-Here are some ideas to get you started:
+<p>
+<b>Commerce</b> &nbsp; Shopify, Liquid, Boost, Shopify CLI, Admin GraphQL<br>
+<b>Code</b> &nbsp; JavaScript, TypeScript, Python, Swift, SQL<br>
+<b>Web and apps</b> &nbsp; Node.js, Next.js, Flask, Tailwind, SwiftUI<br>
+<b>Shipping</b> &nbsp; GitHub Actions, Playwright, Postman, Firebase, Cloudflare
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Background
+
+Computer Science at the University of Plymouth, finishing with [In The Zone](https://github.com/alex-brankin/In-The-Zone) as my final year project. Since then it's been Shopify and e-commerce: search, merchandising, theme integrations, and the internal tools that keep a small team quick. Outside work I build Discord games under Odyssey Studios and the odd Mac utility.
+
+### Get in touch
+
+Want access to boost-cli, or a second pair of eyes on a Boost setup? Email [alex@clearer.io](mailto:alex@clearer.io).
