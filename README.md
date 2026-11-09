@@ -4,7 +4,7 @@
 
 <br>
 
-I'm a Product & Solutions Consultant at [Clearer.io](https://clearer.io), working on Boost AI Search & Discovery for Shopify merchants and the agencies behind them. Most days that means reading theme code, working out why a product ranks where it does, and fixing the integration so it stays fixed.
+I'm a Product & Solutions Consultant at [clearer.io](https://clearer.io), working on Boost AI Search & Discovery for Shopify merchants and the agencies behind them. Most days that means reading theme code, working out why a product ranks where it does, and fixing the integration so it stays fixed.
 
 When the same job comes up twice, I build a tool for it. Most of what's below started that way.
 
